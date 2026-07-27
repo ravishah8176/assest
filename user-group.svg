@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width:0;height:0;visibility:hidden;">
+   <defs/>
+   <symbol id="rd-icon-user-group" viewBox="0 0 48 48" fill="black">
+      <path d="M2,24a22,22,0,1,1,44,0a22,22,0,1,1-44,0ZM6,24a18,18,0,1,0,36,0a18,18,0,1,0-36,0Z"/>
+      <path d="M16,20a8,8,0,1,1,16,0a8,8,0,1,1-16,0ZM20,20a4,4,0,1,0,8,0a4,4,0,1,0-8,0Z"/>
+      <path d="M9.12,37.441Q11.284,30,17.48,30L30.52,30Q36.716,30,38.88,37.441A2,2,0,0,1,35.04,38.559Q33.713,34,30.52,34L17.48,34Q14.287,34,12.96,38.559A2,2,0,0,1,9.12,37.441Z"/>
+   </symbol>
+</svg>
